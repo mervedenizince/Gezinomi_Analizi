@@ -1,0 +1,13 @@
+İngilizce :
+
+Gezinomi Analysis Project – Conducted exploratory data analysis on Gezinomi user dataset to uncover navigation patterns and user behavior insights. 
+Developed interactive dashboards in Power BI to visualize metrics such as visit frequency, average session duration, and popular content categories.
+Performed data cleaning and preparation in Excel to ensure accuracy and reliability of the analysis. 
+Demonstrated ability to translate complex data into actionable insights.
+
+Türkçe :
+
+Gezinomi Analizi Projesi – Gezinomi kullanıcı veri seti üzerinde keşifsel veri analizi yaparak gezinti alışkanlıkları ve kullanıcı davranışları hakkında içgörüler elde edildi.
+Ziyaret sıklığı, ortalama oturum süresi ve popüler içerik kategorilerini görselleştirmek için Power BI ile interaktif panolar geliştirildi.
+Analizin doğruluğunu ve güvenilirliğini sağlamak için Excel’de veri temizleme ve hazırlık işlemleri yapıldı.
+Karmaşık verileri uygulanabilir içgörülere dönüştürme becerisi gösterildi.
